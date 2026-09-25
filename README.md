@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center"> Who are you? </h3>
+<h3 align="center"> 𓇢𓆸 Who are you?  </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-unknown-8B0000?style=for-the-badge&logo=vampire&logoColor=white" />
@@ -43,7 +43,5 @@
 ![visitors](https://komarev.com/ghpvc/?username=JlaYmix&style=for-the-badge&color=8B0000&label=Souls+Visited)
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer)
-
-<i>"Everything depends on your choice"</i>
 
 </div>
